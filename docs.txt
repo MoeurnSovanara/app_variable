@@ -1,0 +1,10 @@
+Variable 
+
+
+Data type
+- int
+- double
+- string
+- bool
+- var : variable base on their value
+- dynamic : store data that can change value
